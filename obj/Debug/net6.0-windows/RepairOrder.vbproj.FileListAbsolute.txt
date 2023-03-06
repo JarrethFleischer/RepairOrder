@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\bin\Debug\net6.0-windows\RepairOrder.exe
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\bin\Debug\net6.0-windows\RepairOrder.deps.json
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\bin\Debug\net6.0-windows\RepairOrder.runtimeconfig.json
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\bin\Debug\net6.0-windows\RepairOrder.dll
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\bin\Debug\net6.0-windows\RepairOrder.pdb
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\RepairOrder.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\RepairOrder.Form1.resources
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\RepairOrder.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\RepairOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\RepairOrder.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\RepairOrder.AssemblyInfo.vb
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\RepairOrder.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\RepairOrder.dll
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\refint\RepairOrder.dll
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\RepairOrder.pdb
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\RepairOrder.genruntimeconfig.cache
+C:\Users\USER\source\repos\RepairOrder\RepairOrder\obj\Debug\net6.0-windows\ref\RepairOrder.dll
